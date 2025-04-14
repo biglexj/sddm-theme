@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=biglexj
+Description=Tema moderno para SDDM basado en Breeze-Chameleon
+Author=Biglex J
+Copyright=(c) 2025, Biglex J
+License=GPLv3
+Type=sddm-theme
+Version=1.1
+Website=https://github.com/biglexj/sddm-theme
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=biglex.dev@gmail.com
+Theme-Id=biglexj
+Theme-API=2.0

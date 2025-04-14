@@ -19,7 +19,7 @@ Un tema personalizado para SDDM (Simple Desktop Display Manager) con un diseño 
 ### Configuración de Fuentes
 El tema utiliza diferentes fuentes para distintos elementos:
 ```ini
-HeaderTextFont="Kefa"          # Mensaje de bienvenida
+HeaderTextFont="Kefa"         # Mensaje de bienvenida
 ClockFont="Ndot55"            # Reloj digital
 DateFont="Fira Sans"          # Fecha
 UserFieldFont="Fira Sans"     # Campo de usuario
@@ -115,5 +115,5 @@ Este tema está basado en SDDM Sugar Candy y está licenciado bajo GPLv3.
 
 ## 🙏 Agradecimientos
 
-- SDDM Sugar Candy - Por el tema base
+- SDDM basado en Breeze-Chameleon - Por el tema base
 - Comunidad de KDE - Por SDDM

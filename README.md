@@ -14,7 +14,7 @@ Un tema personalizado para SDDM (Simple Desktop Display Manager) con un diseño 
 |--------|-------------------|-----------------|--------------|
 | Fira Sans | [mozilla/Fira](https://github.com/mozilla/Fira) | • Campo de usuario<br>• Campo de fecha<br>• Elementos generales | - |
 | Kefa | [Kefa Font](https://www.freefontdownload.org/en/kefa-regular.font) | • Mensaje de bienvenida | - |
-| Ndot 55 | [Ndot 55 o Nothing Font](https://github.com/xeji01/nothingfont.git) | • Reloj digital<br>• Campo de contraseña | alternativa [Departure Mono](https://github.com/ryanoasis/nerd-fonts) | - |
+| Ndot 55 | [Nothing Font](https://github.com/xeji01/nothingfont.git) | • Reloj digital<br>• Campo de contraseña | - |
 
 ### Configuración de Fuentes
 El tema utiliza diferentes fuentes para distintos elementos:

@@ -11,7 +11,7 @@ Un tema personalizado para SDDM (Simple Desktop Display Manager) con un diseño 
 
 ### Fuentes Requeridas
 | Fuente | Enlace de Descarga | Usos en el Tema |
-|--------|-------------------|-----------------|--------------|
+|--------|-------------------|-----------------|
 | Fira Sans | [mozilla/Fira](https://github.com/mozilla/Fira) | • Campo de usuario<br>• Campo de fecha<br>• Elementos generales |
 | Kefa | [Kefa Font](https://www.freefontdownload.org/en/kefa-regular.font) | • Mensaje de bienvenida |
 | Ndot 55 | [Nothing Font](https://github.com/xeji01/nothingfont.git) | • Reloj digital<br>• Campo de contraseña |

@@ -10,11 +10,11 @@ Un tema personalizado para SDDM (Simple Desktop Display Manager) con un diseño 
 - **GitHub**: [biglexj/sddm-theme](https://github.com/biglexj/sddm-theme)
 
 ### Fuentes Requeridas
-| Fuente | Enlace de Descarga | Usos en el Tema | Alternativas |
+| Fuente | Enlace de Descarga | Usos en el Tema |
 |--------|-------------------|-----------------|--------------|
-| Fira Sans | [mozilla/Fira](https://github.com/mozilla/Fira) | • Campo de usuario<br>• Campo de fecha<br>• Elementos generales | - |
-| Kefa | [Kefa Font](https://www.freefontdownload.org/en/kefa-regular.font) | • Mensaje de bienvenida | - |
-| Ndot 55 | [Nothing Font](https://github.com/xeji01/nothingfont.git) | • Reloj digital<br>• Campo de contraseña | - |
+| Fira Sans | [mozilla/Fira](https://github.com/mozilla/Fira) | • Campo de usuario<br>• Campo de fecha<br>• Elementos generales |
+| Kefa | [Kefa Font](https://www.freefontdownload.org/en/kefa-regular.font) | • Mensaje de bienvenida |
+| Ndot 55 | [Nothing Font](https://github.com/xeji01/nothingfont.git) | • Reloj digital<br>• Campo de contraseña |
 
 ### Configuración de Fuentes
 El tema utiliza diferentes fuentes para distintos elementos:

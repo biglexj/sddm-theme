@@ -117,7 +117,7 @@ Item {
         popup: Popup {
             // Ventana emergente con lista de sesiones
             id: popupHandler
-            y: parent.height - 1
+            y: parent.height - 3  // Cambiado de -1 a -3 para mover el popup más arriba
             x: config.ForceRightToLeft == "true" ? -loginButtonWidth + displayedItem.width : 0
             width: sessionButton.width
             implicitHeight: contentItem.implicitHeight

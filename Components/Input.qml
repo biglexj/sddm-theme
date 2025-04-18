@@ -31,7 +31,7 @@ Column {
     // Contenedor principal de los elementos de entrada
     id: inputContainer
     Layout.fillWidth: true
-    spacing: 40  // Restaurado a 40 para mejor separación vertical
+    spacing: 40
 
     property Control exposeSession: sessionSelect.exposeSession
     property bool failed

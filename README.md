@@ -1,4 +1,4 @@
-# SDDM Theme BigLexJ
+# hypr-ely-neon Theme SDDM
 
 Un tema personalizado para SDDM (Simple Desktop Display Manager) con un diseño moderno y minimalista.
 
@@ -7,7 +7,7 @@ Un tema personalizado para SDDM (Simple Desktop Display Manager) con un diseño 
 ## 🔗 Repositorios y Recursos
 
 ### Repositorios
-- **GitHub**: [biglexj/sddm-theme](https://github.com/biglexj/sddm-theme)
+- **GitHub**: [biglexj/hypr-ely-neon](https://github.com/biglexj/hypr-ely-neon.git)
 
 ### Fuentes Requeridas
 | Fuente | Enlace de Descarga | Usos en el Tema |
@@ -53,7 +53,7 @@ Para que el tema funcione correctamente, necesitas instalar las siguientes fuent
 ### Instalación Manual
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/biglexj/sddm-theme.git
+git clone https://github.com/biglexj/hypr-ely-neon.git
 ```
 
 2. Copia el tema a la carpeta de temas de SDDM:

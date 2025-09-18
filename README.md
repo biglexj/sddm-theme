@@ -2,7 +2,7 @@
 
 Un tema personalizado para SDDM (Simple Desktop Display Manager) con un diseño moderno y minimalista.
 
-![Vista previa](preview.jpg)
+![Vista previa](preview.png)
 
 ## 🔗 Repositorios y Recursos
 

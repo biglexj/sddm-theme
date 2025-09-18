@@ -50,15 +50,6 @@ Para que el tema funcione correctamente, necesitas instalar las siguientes fuent
 
 ## 📥 Instalación
 
-### Usando AUR (Arch Linux y derivados)
-```bash
-# Usando yay
-yay -S sddm-theme-biglexj-git
-
-# O usando paru
-paru -S sddm-theme-biglexj-git
-```
-
 ### Instalación Manual
 1. Clona el repositorio:
 ```bash
